@@ -1,19 +1,8 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
+<!DOCTYPE html>
+<html>
+<body>
 
-# Other files and folders
-<a href="#" class="button">Link Button</a>/
+<p><a href="http://www.w3schools.com/html/">Visit our HTML tutorial</a></p>
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+</body>
+</html>
